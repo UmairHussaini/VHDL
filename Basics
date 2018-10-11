@@ -1,0 +1,3 @@
+Entity Umair is
+Port (A:in STD_LOGIC);
+end entity
